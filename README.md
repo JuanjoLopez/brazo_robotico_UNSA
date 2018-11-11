@@ -1,8 +1,6 @@
 # SIMULACIÓN DE BRAZO ROBOTICO EN V-REP
 # 
-> Este proyecto consiste en identificar la placas de los autos y además en reconocer los carácteres que estan presente en ella,utilizando 
-redes convolucionales,fue realizado para la presentación de trabajo final del curso Tópicos en Inteligencia Artificial-UNSA
-
+> Este proyecto consiste en realizar la simulación de un brazo robótico utilizando la herramienta V-REP,fue realizado para el curso de Robótica de la Universidad Nacional de San Agustín.
 
 
 ## Alumno
